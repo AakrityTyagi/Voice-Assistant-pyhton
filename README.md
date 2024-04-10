@@ -34,7 +34,7 @@ def assistant():
         if "hello" in query:
             speak("Hello! How are you?")
         elif ("who created you") in query:
-            speak("Anurag is my creator")
+            speak("Aakrity is my creator")
         elif ("I am fine") in query:
             speak("Very well, Nice to hear you are doing fine")
         elif ("what is your name") in query:
